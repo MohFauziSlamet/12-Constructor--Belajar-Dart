@@ -46,7 +46,6 @@ void main(List<String> arguments) {
   // setelah itu class yang meng extends si parent
   print('=== membuat constructor dengan turunan (extends) ===');
   Person student = Student();
-  // student.name = 'mama ne adek';
 
   print(student.name);
   print('\n');
